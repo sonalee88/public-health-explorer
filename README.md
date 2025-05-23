@@ -87,7 +87,11 @@ See summary_report.txt for a quick overview of key stats.
 
 🙋‍♀️ About Me
 Sonali Kumari
+
+
 AI & Data Engineer | Python • ML • LangChain • Cloud
+
+
 💌 Email: guptasonalee88@gmail.com
 🌐 GitHub: sonalee88
 
