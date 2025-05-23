@@ -79,8 +79,9 @@ The dataset contains **714** records with **15 columns**:
    ```bash
    git clone https://github.com/sonalee88/public-health-explorer.git
    cd public-health-explorer
-   Open public_health_explorer.ipynb in Google Colab or Jupyter Notebook.
-   Run all cells sequentially to reproduce results.
+
+Open public_health_explorer.ipynb in Google Colab or Jupyter Notebook.
+Run all cells sequentially to reproduce results.
 
 📄 Summary Report
 See summary_report.txt for a quick overview of key stats.
