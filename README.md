@@ -61,7 +61,7 @@ The dataset contains **714** records with **15 columns**:
 <img src="https://github.com/sonalee88/public-health-explorer/blob/main/Sleep%20Trouble%20Breakdown.png" width="500">
 <img src="https://github.com/sonalee88/public-health-explorer/blob/main/Health%20Score%20Distribution%20by%20Gender%20(Violin%20Plot).png" width="500">
 
-*(Update this section with your actual image links if you add screenshots)*
+
 
 ---
 
